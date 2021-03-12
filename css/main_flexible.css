@@ -15,7 +15,7 @@ body {
 }
 
 .main {
-  background: url(/img/bgmain.png) no-repeat #F9EAE1;
+  background: url(../img/bgmain.png) no-repeat #F9EAE1;
   background-size: cover;
 }
 
@@ -79,7 +79,7 @@ body {
   display: inline-block;
   vertical-align: middle;
   content: '';
-  background: url(/img/logo.png);
+  background: url(../img/logo.png);
   background-size: 25px 25px;
   width: 25px;
   height: 25px;
@@ -255,7 +255,7 @@ body {
 
 .portfolioTextBlock {
   text-align: center;
-  background: url(/img/portfolio1.png) no-repeat;
+  background: url(../img/portfolio1.png) no-repeat;
   background-size: cover;
   max-width: 488px;
   height: 451px;
